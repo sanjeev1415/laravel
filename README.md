@@ -1,2 +1,2 @@
 # laravel
-It contains sample code for laravel development
+It contains sample code for Laravel development.
